@@ -19,7 +19,7 @@ menu:
     icon: fas fa-tools  # far fa-star
     config: 常用工具  
   - name: 科研专区
-    icon: fas fa-lightbulb  # far fa-star
+    icon: fas fa-pen  # far fa-star
     config: 科研专区
   - name: 校园专区
     icon: iconfont icon-book # iconfont icon-study
@@ -31,7 +31,7 @@ menu:
     icon: fas fa-user    # iconfont icon-cherry
     config: 人工智能
   - name: 童年回忆
-    icon: far fa-star
+    icon: fas fa-heart
     submenu:
       - name: 小霸王游戏
         icon: far fa-thumbs-up
