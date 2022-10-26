@@ -15,7 +15,7 @@
   img: /images/bilibili.png
   description: 国内知名的视频弹幕网站
 - name: 谷歌翻译
-  url: https://translate.google.cn/
+  url: https://translate.google.com/
   img: /images/gf.png
   description: 世界知名的在线翻译工具
 - name: 百度翻译
