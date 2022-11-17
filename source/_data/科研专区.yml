@@ -6,8 +6,14 @@
   url: https://paperswithcode.com/
   img: /images/paperswithcode.png
   description: 人工智能领域查找论文对应开源代码的神器
-
-
+- name: X-MOL学术平台
+  url: https://www.x-mol.com/
+  img: /images/x-mol.ico
+  description: X-MOL学术平台，顶级期刊论文图文内容每日更新
+- name: 学术范
+  url: http://m.xueshufan.com/
+  img: /images/学术范.png
+  description: “学术范” 是一个以学术大数据和人工智能为基础，集搜索、阅读、文献管理、信息共享为一体的学术社区平台
 
 
 
