@@ -14,7 +14,10 @@
   url: http://m.xueshufan.com/
   img: /images/学术范.png
   description: “学术范” 是一个以学术大数据和人工智能为基础，集搜索、阅读、文献管理、信息共享为一体的学术社区平台
-
+- name: 萝卜图书馆
+  url: https://lib.bimuchachong.com/#/login
+  img: /images/萝卜图书馆.png
+  description: 盗版查论文的网站，没有校园网的时候用
 
 
 
