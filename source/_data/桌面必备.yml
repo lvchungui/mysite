@@ -1,0 +1,113 @@
+- name: QQ
+  url: https://im.qq.com/index
+  img: /images/QQ.png
+  description: 从小玩到大的软件，童年回忆！
+- name: 微信
+  url: https://weixin.qq.com/
+  img: /images/微信.png
+  description: 一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字
+- name: 百度云网盘
+  url: https://pan.baidu.com/
+  img: /images/百度云网盘.ico
+  description: 百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端 
+- name: 火绒
+  url: https://www.huorong.cn/
+  img: /images/火绒.png
+  description: 专业尽职，极致低调，只为巩固安全防线！
+- name: 火狐浏览器
+  url: http://www.firefox.com.cn/
+  img: /images/火狐.ico
+  description: 没有晦涩难懂的隐私保护政策，更不向第三方预留后门，纯粹是一款闪电般快、不会出卖您的浏览器
+- name: 谷歌浏览器
+  url: https://www.google.com/chrome/index.html?hl=zh-CN
+  img: /images/谷歌浏览器.png
+  description: Chrome，不一样的浏览器体验，需要科学上网才能打开网站
+- name: Bandzip
+  url: https://www.bandisoft.com/bandizip/
+  img: /images/bandzip.png
+  description: Bandizip 是一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能
+- name: WPS
+  url: https://platform.wps.cn/
+  img: /images/WPS.ico
+  description: WPS Office一站式办公服务平台，具有可兼容Word、Excel、PPT三大办公组件的不同格式，支持PDF文档的编辑与格式转换集成思维导图、流程图、表单等功能
+- name: VScode
+  url: https://code.visualstudio.com/
+  img: /images/VSCODE.png
+  description: 一款由微软开发且跨平台的免费源代码编辑器,可选择Windows、Linux、macOS的不同系统对应安装
+- name: 网易有道词典
+  url: https://cidian.youdao.com/#/
+  img: /images/有道.png
+  description: 里面的划词翻译很好用
+- name: Pigcha加速器
+  url: https://run.footballco2fun.com/
+  img: /images/pigcha.ico
+  description: 这就是你要的网络加速专业工具，安全稳定，极简设计 
+- name: Steam
+  url: https://store.steamchina.com/
+  img: /images/Steam.ico
+  description: 蒸汽平台是畅玩游戏、讨论游戏、创造游戏的快乐所在
+- name: Watt Toolkit
+  url: https://steampp.net/
+  img: /images/watt.png
+  description: Watt Toolkit 是一个开源跨平台的多功能 Steam 工具箱
+- name: flash中心
+  url: https://www.flash.cn/download-wins
+  img: /images/flash.png
+  description: flash中心带给用户更易操作的体验，支持浏览Flash网页，Flash修复、Flash系统设置，体验Flash游戏等功能
+- name: Adobe Acrobat DC
+  url: https://pan.baidu.com/s/12KFYps9I3QiCC6nFszc-bw?pwd=kjcu 
+  img: /images/Adobe Acrobat DC.png
+  description: Adobe Acrobat DC 破解版
+- name: Quicker
+  url: https://getquicker.net/
+  img: /images/quicker.png
+  description: Quicker，Windows效率神器。快速触发 + 自动化
+- name: 不坑盒子
+  url: https://www.44886.com/thread-95066.htm
+  img: /images/不坑盒子.png
+  description: Word 效率插件
+- name: 小恐龙公文排版助手
+  url: https://gw.xkonglong.com/#/
+  img: /images/小恐龙公文排版助手.png
+  description: Word 效率插件
+- name: 慧办公
+  url: https://www.hbg666.com/index.php
+  img: /images/慧办公.png
+  description: Word 和 Excel 效率插件
+- name: 方方格子
+  url: http://www.ffcell.com/
+  img: /images/方方格子.png
+  description: Excel 效率插件
+- name: OneKeyTools
+  url: http://oktools.xyz/
+  img: /images/onekey.png
+  description: PPT 效率插件
+- name: islide
+  url: https://www.islide.cc/
+  img: /images/islide.png
+  description: PPT 效率插件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

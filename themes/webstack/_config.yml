@@ -30,6 +30,9 @@ menu:
   - name: 人工智能
     icon: fas fa-user    # iconfont icon-cherry
     config: 人工智能
+  - name: 桌面必备
+    icon: far fa-thumbs-up    # iconfont icon-cherry
+    config: 桌面必备  
   - name: 童年回忆
     icon: fas fa-heart
     submenu:
