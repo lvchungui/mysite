@@ -18,8 +18,14 @@
   url: https://lib.bimuchachong.com/#/login
   img: /images/萝卜图书馆.png
   description: 盗版查论文的网站，没有校园网的时候用
-
-
+- name: 九天毕昇
+  url: https://jiutian.10086.cn/edu/console#/home/control
+  img: /images/九天毕昇.png
+  description: 一个性价比很高的在线算力平台
+- name: 谷歌Colab
+  url: https://colab.research.google.com/#scrollTo=OwuxHmxllTwN
+  img: /images/Colab.png
+  description: 一个免费的在线算力平台(需要科学上网才能用)
 
 
 

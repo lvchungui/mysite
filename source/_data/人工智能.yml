@@ -15,6 +15,6 @@
   img: /images/数学.png
   description: 数据科学需要一定的数学基础，但仅仅做应用的话，如果时间不多，不用学太深，了解基本公式即可，遇到问题再查吧  
 - name: 深度学习基础
-  url: https://lvchungui.gitee.io/2022/10/10/AI/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/
+  url: https://nn.labml.ai/index.html
   img: /images/深度学习.png
-  description: 
+  description: 这是一个简单的PyTorch实现神经网络和相关算法的集合。这些实现都有文档说明，网站将这些说明作为并列格式的注释呈现出来。我们相信这些会帮助你更好地理解这些算法

@@ -18,9 +18,9 @@
   url: https://translate.google.com/
   img: /images/gf.png
   description: 世界知名的在线翻译工具
-- name: 百度翻译
-  url: https://fanyi.baidu.com/translate
-  img: /images/bf.ico
+- name: 有道翻译
+  url: https://fanyi.youdao.com/index.html#/
+  img: /images/有道.ico
   description: 国内知名的在线翻译工具
 - name: processon
   url: https://www.processon.com/

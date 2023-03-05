@@ -1,7 +1,7 @@
 - name: QQ
   url: https://im.qq.com/index
   img: /images/QQ.png
-  description: 从小玩到大的软件，童年回忆！
+  description: 腾讯QQ支持在线聊天、视频通话、点对点断点续传文件、共享文件
 - name: 微信
   url: https://weixin.qq.com/
   img: /images/微信.png
