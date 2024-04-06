@@ -38,10 +38,6 @@
   url: http://halihali5.com/
   img: /images/哈哩哈哩.png
   description: 免费在线观看电影、动漫和电视剧
-- name: 快云影音
-  url: https://kuaiyunyy.com/
-  img: /images/快云影音.png
-  description: 免费在线观看电影、动漫和电视剧 
 - name: 腾讯云
   url: https://cloud.tencent.com/
   img: /images/腾讯云.png
